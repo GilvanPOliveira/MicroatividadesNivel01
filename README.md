@@ -2,43 +2,36 @@
  <img src="https://i.imgur.com/v95orpk.png" width="100%" />
 </p>
 
-# Mundo 04 - Nível 01: Vamos criar um App
+# Mundo 04 - Nível 01: Microatividades
 
-## Contextualização
+## Microatividade 1: Configurar o ambiente de desenvolvimento React Native
 
-A empresa "Meeting" busca criar um aplicativo móvel eficaz para o cadastro de fornecedores, com listas e imagens de alta qualidade, economizando recursos e proporcionando uma excelente experiência ao usuário. A escolha da tecnologia React Native é crucial para estabelecer uma presença sólida no mercado móvel. Nesta atividade, você aprenderá os princípios básicos do React Native.
+Esta atividade permite a instalação do React Native, preparando o ambiente para as primeiras construções básicas para futura criação do aplicativo. Esta atividade permite a instalação do React native, preparando o ambiente para as primeiras construções básicas para futura criação do aplicativo. Se tudo correu bem, você deverá ver a logo do React em seu navegador
+após a instalação.
 
-## Requisitos Funcionais
-- Cadastro de Fornecedores: O aplicativo deve permitir o cadastro de fornecedores, incluindo informações detalhadas, como nome, endereço, contato e categorias de produtos fornecidos. Essas informações serão exibidas utilizando componentes como `<Text>`, `<TextInput>`, e `<Image>`.
-- Listagem de Fornecedores: Deve ser possível visualizar uma lista de fornecedores cadastrados, com opções de pesquisa e filtragem com base em critérios como categoria ou localização. A lista de fornecedores será exibida utilizando componentes como `<Text>` e `<Image>`.
-- Associação de Imagens: O aplicativo deve permitir a associação de imagens aos perfis dos fornecedores. Os usuários devem poder fazer o upload de logotipos ou fotos relacionadas ao fornecedor, utilizando o componente `<Image>`. 
-- Experiência de Usuário Intuitiva: A interface do aplicativo deve ser intuitiva e fácil de usar, garantindo que os usuários possam navegar, adicionar e editar informações de forma eficiente. Isso será alcançado usando componentes como `<Text>`,
-`<TextInput>`, e `<Image>`.
+## Microatividade 2: Implementar a funcionalidade de entrada de texto em um componente React Native
 
-## Foram utilizados nesse projeto:
+Nesta atividade, você irá aprender a implementar a funcionalidade de entrada de texto em um componente React Native. Você criará um componente que permite aos usuários inserir textos e ver a tradução desse texto em forma de emojis de pizza. Isso envolve o uso do componente TextInput, a manipulação de eventos de alteração de texto (onChangeText), e a exibição do resultado traduzido em tempo real. Ao final desta atividade, você terá um componente React Native funcional que demonstra uma interação de entrada de texto. Ao seguir esses passos, você terá implementado com sucesso a funcionalidade de entrada de texto em um componente React Native. O componente permitirá que o usuário insira texto e o traduzirá para emojis de pizza, similar ao exemplo fornecido.
 
-- Tecnologias: React Native, JavaScript, Expo (CLI, Go), Android Studio e Visual Studio Code.
-- Biblioteca:
-  
-  ```
-  npm install expo-image-picker
-  ```
-- Cores:
-![#000](https://placehold.co/12x12/000/000.png) `#000`
-![#16423C](https://placehold.co/12x12/16423C/16423C.png) `#16423C`
-![#6A9C89](https://placehold.co/12x12/6A9C89/6A9C89.png) `#6A9C89`
-![#C4DAD2](https://placehold.co/12x12/C4DAD2/C4DAD2.png) `#C4DAD2`
-![#E9EFEC](https://placehold.co/12x12/E9EFEC/E9EFEC.png) `#E9EFEC`
-![#FF6F6F](https://placehold.co/12x12/FF6F6F/FF6F6F.png) `#FF6F6F`
-![#fff](https://placehold.co/12x12/fff/fff.png) `#fff`
+## Microatividade 3: Implementar um Componente de Lista Dinâmica (ScrollView)
 
-## Imagens do App em execução:
+Nesta atividade, você aprenderá a criar um componente de lista que permitirá exibir informações de forma dinâmica em um aplicativo React Native. Isso é útil quando você deseja criar uma lista que pode conter vários tipos de elementos, como texto e imagens, e que pode ser rolada verticalmente. Após seguir esses passos, você terá criado um componente React Native que permite exibir informações de forma dinâmica em uma lista rolável, contendo elementos heterogêneos, como texto e
+imagens. Isso é útil para criar interfaces de usuário mais complexas e interativas em seu aplicativo. A seguir são apresentadas imagens do resultado após a execução do código.
+
+## Microatividade 4: Criando o visualizador de listas
+
+Como parte desta atividade, vamos criar um componente React Native que permitirá exibir informações de forma dinâmica em uma lista. Isso é útil quando você tem um grande conjunto de dados e deseja que apenas os itens visíveis sejam renderizados para economizar recursos. Após seguir esses passos, você terá criado um componente React Native que pode exibir informações
+de forma dinâmica em uma lista, economizando recursos ao renderizar apenas os itens visíveis na tela. Você pode personalizar esses componentes para atender às suas necessidades específicas ao trabalhar com grandes conjuntos de dados.
+
+## Microatividade 5: Empregar imagens, seja para exibir gráficos, ícones, fotos ou outros elementos visuais em um aplicativo React Native
+
+Nesta atividade, você aprenderá a incorporar imagens em um aplicativo React Native. Imagens são usadas para exibir gráficos, ícones, fotos e outros elementos visuais em um aplicativo. Vamos seguir alguns passos simples para realizar esta tarefa. Após seguir esses passos, você terá incorporado imagens em seu aplicativo React Native e aprendido a aplicar estilos às imagens para personalizá-las de acordo com suas necessidades. Isso é fundamental para criar interfaces de usuário interativas e atraentes em seu aplicativo. A seguir você tem a imagem resultado da primeira parte da atividade.
+
+## Imagens do App em funcionamento:
 <div align="center">
- <img src="https://i.imgur.com/iGnWgu6.png" height="200" />
- <img src="https://i.imgur.com/4c9KtjE.png" height="200" />
- <img src="https://i.imgur.com/Md3JwSZ.png" height="200" />
- <img src="https://i.imgur.com/uSQ0OZM.png" height="200" />
- <img src="https://i.imgur.com/4TzfV6w.png" height="200" />
- <img src="https://i.imgur.com/FU4gLhJ.png" height="200" />
- <img src="https://i.imgur.com/6eLf8mm.png" height="200" />
+<img src="https://i.imgur.com/U6n8FrW.png" width="150" height='250'/>
+<img src="https://i.imgur.com/d8NjfIz.png" width="150" height='250'/> 
+<img src="https://i.imgur.com/u9vt8JS.png" width="150" height='250'/>
+<img src="https://i.imgur.com/JFTBM93.png" width="150" height='250'/> 
+<img src="https://i.imgur.com/5PMlfdL.png" width="150" height='250'/> 
 </div>
