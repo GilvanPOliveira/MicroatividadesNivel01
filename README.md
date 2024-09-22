@@ -35,3 +35,9 @@ Nesta atividade, você aprenderá a incorporar imagens em um aplicativo React Na
 <img src="https://i.imgur.com/JFTBM93.png" width="150" height='250'/> 
 <img src="https://i.imgur.com/5PMlfdL.png" width="150" height='250'/> 
 </div>
+
+## Execução do App:
+
+https://github.com/user-attachments/assets/961b6570-a9e9-40a1-9f4a-914a782748b6
+
+
